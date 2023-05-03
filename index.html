@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <link rel="shortcut icon" href="icones/icon.ico" type="image/x-icon">
+    <script src="bootstrap/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
+    <title>Tio Patinhas</title>
+</head>
+<body>
+    <div class="center titulo">
+    <h1 class="text-light">Tio Patinhas - Sepetiba</h1>
+    <hr>
+    </div>
+    <h3>Atenção: Promoção válida até 03/05/2023</h3>
+    <h3>Que tipo de produto você quer encontrar mais barato?</h3><br>
+    <!--Produtos-->
+    <div class="center">
+
+        <input type="button" value="Açucar" class="botaotam btn btn-success" onclick="acucar()"><br>
+        <div class="padrao lead bg-info text-dark" id="acucarmaisbarato"></div>
+        <div class="lead" id="acucarredeeconomia"></div>
+        <div class="lead" id="acucarriosul"></div>
+        <div class="lead" id="acucarsupermarket"></div>
+        <div class="lead" id="acucarsuperrede"></div><br>
+
+        <input type="button" value="Café" class="botaotam btn btn-success" onclick="cafe()"><br>
+        <div class="padrao lead bg-info text-dark" id="cafemaisbarato"></div>
+        <div class="lead" id="caferedeeconomia"></div>
+        <div class="lead" id="caferiosul"></div>
+        <div class="lead" id="cafesupermarket"></div>
+        <div class="lead" id="cafesuperrede"></div><br>
+
+        <input type="button" value="Frango" class="botaotam btn btn-success" onclick="frango()"><br>
+        <div class="padrao lead bg-info text-dark" id="frangomaisbarato"></div>
+        <div class="lead" id="frangoredeeconomia"></div>
+        <div class="lead" id="frangoriosul"></div>
+        <div class="lead" id="frangosupermarket"></div>
+        <div class="lead" id="frangosuperrede"></div><br>
+        
+        <br><br><a href=""><input type="button" value="Versão completa" class="botaotam btn btn-primary" onclick="problema()"></a>
+    </div>
+</body>
+</html>
