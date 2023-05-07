@@ -20,47 +20,47 @@ function batatafrita(){
     batatafritasuperrede.innerHTML = 'Super Rede batata frita golden fries: 22,95R$'
 }
 function cafe(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function carne(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function cerveja(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function cremedeleite(){//Talvez possa ser retirado
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function detergente(){//Talvez possa ser retirado
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function feijao(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function frango(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function leiteemcaixa(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function leiteempo(){//Talvez possa ser retirado
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function macarrao(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function margarina(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function molhodetomate(){//Talvez possa ser retirado
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function oleo(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function sabaoempo(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
 function rank(){
-    alert("Para ver adquira a versão completa")
+    alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
 }
