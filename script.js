@@ -3,21 +3,21 @@ function acucar(){
     acucarredeeconomia.innerHTML = 'Rede Economia não tem promoção'
     acucarriosul.innerHTML = 'Rio Sul Açucar refinado caravelas: 3,99R$'
     acucarsupermarket.innerHTML = 'Super Market não tem promoção'
-    acucarsuperrede.innerHTML = 'Super Rede Açucar refinado neve: 4,49R$'
+    acucarsuperrede.innerHTML = 'Super Rede não tem promoção'
 }
 function arroz(){
     arrozmaisbarato.innerHTML = 'O arroz mais barato está no mercado Super Market no valor de 19,95R$'
     arrozredeeconomia.innerHTML = 'Rede Economia Arroz branco Palmares: 22,95R$'
     arrozriosul.innerHTML = 'Rio Sul Arroz branco tucano: 19,99R$'
     arrozsupermarket.innerHTML = 'Super Market Arroz branco donal elza: 19,95R$'
-    arrozsuperrede.innerHTML = 'Super Rede Arroz branco copaarroz: 22,99R$'
+    arrozsuperrede.innerHTML = 'Super Rede Arroz não tem promoção'
 }
 function batatafrita(){
-    batatafritamaisbarato.innerHTML = 'A batata frita mais barata está no mercado Super Market no valor de 18,98R$'
+    batatafritamaisbarato.innerHTML = 'Até o momento não tem detergente em promoção'
     batatafritaredeeconomia.innerHTML = 'Rede Economia não tem promoção'
     batatafritariosul.innerHTML = 'Rio Sul não tem promoção'
-    batatafritasupermarket.innerHTML = 'Super Market batata frita ok fries ou prime fires: 18,98R$'
-    batatafritasuperrede.innerHTML = 'Super Rede batata frita golden fries: 22,95R$'
+    batatafritasupermarket.innerHTML = 'Super Market não tem promoção'
+    batatafritasuperrede.innerHTML = 'Super Rede não tem promoção'
 }
 function cafe(){
     alert("Para ter acesso à versão completa, clique no botão abaixo intitulado 'Versão completa' e adquira por apenas R$ 7,50 por semana ou R$ 20 por mês.")
