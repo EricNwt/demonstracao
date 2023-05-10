@@ -15,7 +15,7 @@ function arroz(){
     arrozsuperrede.innerHTML = 'Super Rede Arroz não tem promoção'
 }
 function batatafrita(){
-    batatafritamaisbarato.innerHTML = 'Até o momento não tem detergente em promoção'
+    batatafritamaisbarato.innerHTML = 'Até o momento não tem batata frita em promoção'
     economiabatatafrita.innerHTML = ''
     batatafritaredeeconomia.innerHTML = 'Rede Economia não tem promoção'
     batatafritariosul.innerHTML = 'Rio Sul não tem promoção'
