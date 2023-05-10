@@ -1,5 +1,6 @@
 function acucar(){
     acucarmaisbarato.innerHTML = 'O açucar mais barato está no mercado Rio Sul no valor de 3,99R$'
+    economiaacucar.innerHTML = ''
     acucarredeeconomia.innerHTML = 'Rede Economia não tem promoção'
     acucarriosul.innerHTML = 'Rio Sul Açucar refinado caravelas: 3,99R$'
     acucarsupermarket.innerHTML = 'Super Market não tem promoção'
@@ -7,13 +8,15 @@ function acucar(){
 }
 function arroz(){
     arrozmaisbarato.innerHTML = 'O arroz mais barato está no mercado Super Market no valor de 19,95R$'
+    economiaarroz.innerHTML = 'Economizou 3,00R$ em relação ao mercado mais caro.'
     arrozredeeconomia.innerHTML = 'Rede Economia Arroz branco Palmares: 22,95R$'
     arrozriosul.innerHTML = 'Rio Sul Arroz branco tucano: 19,99R$'
     arrozsupermarket.innerHTML = 'Super Market Arroz branco donal elza: 19,95R$'
     arrozsuperrede.innerHTML = 'Super Rede Arroz não tem promoção'
 }
 function batatafrita(){
-    batatafritamaisbarato.innerHTML = 'Até o momento não tem batata frita em promoção'
+    batatafritamaisbarato.innerHTML = 'Até o momento não tem detergente em promoção'
+    economiabatatafrita.innerHTML = ''
     batatafritaredeeconomia.innerHTML = 'Rede Economia não tem promoção'
     batatafritariosul.innerHTML = 'Rio Sul não tem promoção'
     batatafritasupermarket.innerHTML = 'Super Market não tem promoção'
