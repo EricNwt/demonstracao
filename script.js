@@ -8,7 +8,7 @@ function acucar(){
 }
 function arroz(){
     arrozmaisbarato.innerHTML = 'Mercado mais barato Super Market: 19,95R$'
-    economiaarroz.innerHTML = 'Economizou 3,00R$ em relação ao mercado mais caro.'
+    economiaarroz.innerHTML = 'Economizou 4,04R$ em relação ao mercado mais caro.'
     arrozredeeconomia.innerHTML = '<strong>Rede Economia</strong><br> Arroz branco Palmares: 22,95R$'
     arrozriosul.innerHTML = '<strong>Rio Sul</strong><br> Arroz branco tucano: 19,99R$'
     arrozsupermarket.innerHTML = '<strong>Super Market</strong><br> Arroz branco donal elza: 19,95R$'
