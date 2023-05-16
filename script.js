@@ -30,5 +30,5 @@ function localizacao(){
     localizacaosuperrede.innerHTML = '<a href="https://goo.gl/maps/1U3ta2AFiXdiCWkj8" target="_blank">Super Rede</a>'
 }
 function propaganda(){
-    alert("Para ter acesso à versão completa, clique no botão azul ao final da página intitulado 'Versão completa' e adquira por apenas R$ 5 por semana ou R$ 15 por mês.")
+    alert("Para ter acesso à versão completa, clique no botão azul ao início da página intitulado 'Versão completa' e adquira por apenas R$ 5 por semana ou R$ 15 por mês.")
 }
