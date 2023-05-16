@@ -1,7 +1,7 @@
 function acucar(){
     acucarmaisbarato.innerHTML = 'Até o momento não tem promoção'
     economiaacucar.innerHTML = ''
-    acucarredeeconomia.innerHTML = '<strong>Rede Economia</strong><br> não tem promoção'
+    acucarredeeconomia.innerHTML = '<strong>Rede Economia </strong><br> não tem promoção'
     acucarriosul.innerHTML = '<strong>Rio Sul</strong><br> não tem promoção'
     acucarsupermarket.innerHTML = '<strong>Super Market</strong><br> não tem promoção'
     acucarsuperrede.innerHTML = '<strong>Super Rede</strong><br> não tem promoção'
