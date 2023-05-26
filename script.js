@@ -1,25 +1,25 @@
 function acucar(){
-    acucarmaisbarato.innerHTML = 'Indicamos Rio Sul: 3,99R$'
-    economiaacucar.innerHTML = 'Em relação ao maior valor você economizou: 0,59R$'
+    acucarmaisbarato.innerHTML = 'Indicamos Super Rede: 3,79R$'
+    economiaacucar.innerHTML = 'Em relação ao maior valor você economizou: 0,21R$'
     acucarredeeconomia.innerHTML = '<strong>Rede Economia </strong><br>Não tem promoção'
     acucarriosul.innerHTML = '<strong>Rio Sul</strong><br>Preço atual do açucar refinado caravelas: 3,99R$'
-    acucarsupermarket.innerHTML = '<strong>Super Market</strong><br>Último preço açucar caravela: 4,49R$'
-    acucarsuperrede.innerHTML = '<strong>Super Rede</strong><br>Último preço açucar guarani: 4,59R$'
+    acucarsupermarket.innerHTML = '<strong>Super Market</strong><br>Preço atual açucar união: 3,99R$'
+    acucarsuperrede.innerHTML = '<strong>Super Rede</strong><br>Preço atual açucar neve: 3,79R$'
 }
 function arroz(){
-    arrozmaisbarato.innerHTML = 'Indicamos Super Market: 19,95R$'
-    economiaarroz.innerHTML = 'Em relação ao maior valor você economizou: 4,05R$'
+    arrozmaisbarato.innerHTML = 'Indicamos Super Market: 18,95R$'
+    economiaarroz.innerHTML = 'Em relação ao maior valor você economizou: 5,04R$'
     arrozredeeconomia.innerHTML = '<strong>Rede Economia</strong><br>Preço atual arroz branco Palmares: 21,95R$'
     arrozriosul.innerHTML = '<strong>Rio Sul</strong><br>Preço atual arroz branco tucano: 19,99R$'
-    arrozsupermarket.innerHTML = '<strong>Super Market</strong><br>Preço atual arroz branco dona elza: 19,95R$'
+    arrozsupermarket.innerHTML = '<strong>Super Market</strong><br>Preço atual arroz branco dona elza: 18,95R$'
     arrozsuperrede.innerHTML = '<strong>Super Rede</strong><br>Último preço arroz branco carreteiro: 23,99R$'
 }
 function batatafrita(){
-    batatafritamaisbarato.innerHTML = 'Indicamos Super Market: 23,98R$'
-    economiabatatafrita.innerHTML = 'Em relação ao maior valor você economizou: 3,02R$'
+    batatafritamaisbarato.innerHTML = 'Indicamos Super Market: 21,98R$'
+    economiabatatafrita.innerHTML = 'Em relação ao maior valor você economizou: 5,01R$'
     batatafritaredeeconomia.innerHTML = '<strong>Rede Economia</strong><br>Não tem promoção'
     batatafritariosul.innerHTML = '<strong>Rio Sul</strong><br>Não tem promoção'
-    batatafritasupermarket.innerHTML = '<strong>Super Market</strong><br>Último preço batata prime fries 1,5kg: 23,98R$'
+    batatafritasupermarket.innerHTML = '<strong>Super Market</strong><br>Preço atual batata frita newbraz 2kg: 21,98R$'
     batatafritasuperrede.innerHTML = '<strong>Super Rede</strong><br>Último preço batata pré-frita quality fries 2kg: 26,99R$'
 }
 function localizacao(){
